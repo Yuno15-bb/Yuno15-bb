@@ -4,6 +4,8 @@
 
 I enjoy turning real problems into useful software, especially around AI systems and product development.
 
+I like understanding why something works, not just getting it to work.
+
 ### Selected work
 
 **AI Operations Agent** — AI agent for real business operations.
@@ -17,15 +19,16 @@ I enjoy turning real problems into useful software, especially around AI systems
 **Languages**
 `Python` `TypeScript` `JavaScript` `SQL`
 
-**Backend & AI**
-`FastAPI` `REST APIs` `Claude / LLM APIs` `AI agents` `RAG` `Retrieval`
+**Backend**
+`FastAPI` `API integrations` `Webhooks`
+
+**AI**
+`Claude / LLM APIs` `AI agents` `RAG` `Retrieval`
 
 **Data & Frontend**
 `PostgreSQL` `Supabase` `React` `Astro` `HTML/CSS`
 
 **Testing & tools**
 `pytest` `Playwright` `GitHub Actions` `Git`
-
-I like understanding why something works, not just getting it to work.
 
 → **Portfolio:** [yuno15-bb.github.io](https://yuno15-bb.github.io)
