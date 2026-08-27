@@ -19,8 +19,20 @@ My work spans agentic systems, retrieval and persistent memory, backend integrat
 
 I don't treat "it seems to work" as evidence. I build the test bench, try to make it fail, and keep the failure when it teaches something.
 
----
+### Skills
 
-`Python` · `FastAPI` · `Claude / Anthropic API` · `TypeScript/JavaScript` · `PostgreSQL` · `Supabase` · `PWA` · `pytest` · `Playwright` · `GitHub Actions`
+**AI & agents**
+`Claude / Anthropic API` `Agentic tool use` `ReAct agents` `RAG & retrieval` `BM25 ranking` `Persistent memory` `LLM evaluation benches`
+
+**Backend & data**
+`Python` `FastAPI` `REST APIs` `PostgreSQL` `Supabase` `Row-Level Security` `Notion API` `Gmail API` `Microsoft Graph` `Railway` `Sentry`
+
+**Product & frontend**
+`TypeScript` `JavaScript` `React` `Astro` `PWA & Service Workers` `Offline-first sync` `GSAP` `WebGL / GLSL` `Electron` `PDF generation` `Geolocation`
+
+**Testing & delivery**
+`pytest` `Playwright` `GitHub Actions` `CI guardrails` `Adversarial testing` `Bash` `Git`
+
+---
 
 Portfolio → **[yuno15-bb.github.io](https://yuno15-bb.github.io)**
