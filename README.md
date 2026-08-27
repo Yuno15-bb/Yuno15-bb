@@ -7,7 +7,9 @@ I enjoy turning real problems into useful software, especially around AI systems
 ### Selected work
 
 **AI Operations Agent** — AI agent for real business operations.
+
 **Field Operations Platform** — Software for field teams working with unreliable networks.
+
 **C Brain** — Open-source memory & retrieval for AI agents.
 
 ### Engineering stack
