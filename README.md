@@ -3,15 +3,15 @@
 
 I build AI systems that operate in the real world — and the controls that prove they keep working.
 
-My work spans agentic systems, retrieval and persistent memory, backend integrations, and offline-first software, from architecture to production.
+My work spans agentic systems, retrieval and persistent memory, backend integrations and product software, from architecture to production.
 
-### Recent work includes
+### Recent work
 
-**AI Operations Agent** — a production Python/FastAPI agent with 37 tools, document extraction, email workflows, human-validated writes and automated testing.
+**AI Operations Agent** — a Python/FastAPI agent in production: 37 tools, document extraction, email workflows, human-validated writes.
 
-**Field Operations Platform** — an offline-first PWA built around unreliable connectivity, PostgreSQL/Supabase, RLS, GPS, synchronization and PDF workflows.
+**Field Operations Platform** — a PWA for field teams, built for unreliable networks: nothing is lost when the connection drops.
 
-**C Brain** — an open-source memory and retrieval system for AI agents, with reproducible benchmarks, adversarial controls and CI-enforced safeguards.
+**C Brain** — open-source memory and retrieval for AI agents: reproducible benchmarks, CI-enforced safeguards.
 
 ### How I work
 
@@ -21,17 +21,13 @@ I don't treat "it seems to work" as evidence. I build the test bench, try to mak
 
 ### Skills
 
-**AI & agents**
-`Claude / Anthropic API` `Agentic tool use` `ReAct agents` `RAG & retrieval` `BM25 ranking` `Persistent memory` `LLM evaluation benches`
+**AI & agents** — `Claude / Anthropic API` `Tool-use agents` `RAG & retrieval` `Persistent memory` `Evaluation benches`
 
-**Backend & data**
-`Python` `FastAPI` `REST APIs` `PostgreSQL` `Supabase` `Row-Level Security` `Notion API` `Gmail API` `Microsoft Graph` `Railway` `Sentry`
+**Backend & data** — `Python` `FastAPI` `PostgreSQL` `Supabase / RLS` `API integrations` `Railway` `Sentry`
 
-**Product & frontend**
-`TypeScript` `JavaScript` `React` `Astro` `PWA & Service Workers` `Offline-first sync` `GSAP` `WebGL / GLSL` `Electron` `PDF generation` `Geolocation`
+**Product & frontend** — `TypeScript` `React` `Astro` `PWA & Service Workers` `WebGL / GLSL` `Electron`
 
-**Testing & delivery**
-`pytest` `Playwright` `GitHub Actions` `CI guardrails` `Adversarial testing` `Bash` `Git`
+**Testing & delivery** — `pytest` `Playwright` `GitHub Actions` `Adversarial testing`
 
 ---
 
