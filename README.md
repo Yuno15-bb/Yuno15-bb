@@ -2,9 +2,11 @@
 
 ### Applied AI & Product Software Engineer
 
-I enjoy turning real problems into useful software, especially around AI systems and product development.
+I turn real problems into useful software, especially around AI systems and product development.
 
 I like understanding why something works, not just getting it to work.
+
+
 
 ### Selected work
 
@@ -13,6 +15,8 @@ I like understanding why something works, not just getting it to work.
 **Field Operations Platform** — Software for field teams working with unreliable networks.
 
 **C Brain** — Open-source memory & retrieval for AI agents.
+
+
 
 ### Engineering stack
 
