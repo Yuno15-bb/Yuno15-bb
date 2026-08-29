@@ -18,18 +18,21 @@ I care about understanding why something works, not just making it work.
 
 ### Stack
 
-**Languages**
+**Languages**  
 `Python` `TypeScript` `JavaScript` `SQL`
 
-**Backend**
+**Backend**  
 `FastAPI` `API integrations` `Webhooks`
 
-**AI**
+**AI**  
 `Claude / LLM APIs` `AI agents` `RAG` `Retrieval`
 
-**Data & Frontend**
-`PostgreSQL` `Supabase` `React` `Astro` `HTML/CSS`
+**Data**  
+`PostgreSQL` `Supabase`
 
-**Testing & tools**
+**Frontend**  
+`React` `Astro` `HTML/CSS`
+
+**Testing & tools**  
 `pytest` `Playwright` `GitHub Actions` `Git`
 
