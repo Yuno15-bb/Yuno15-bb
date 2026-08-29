@@ -4,8 +4,7 @@
 
 I turn real problems into useful software, especially around AI systems and product development.
 
-I understand why something works, not just getting it to work.
-
+I care about understanding why something works, not just making it work.
 
 
 ### Work
@@ -15,7 +14,6 @@ I understand why something works, not just getting it to work.
 **Field Ops Platform** — Software for field teams working with unreliable networks.
 
 **C Brain** — Open-source memory & retrieval for AI agents.
-
 
 
 ### Stack
@@ -34,5 +32,4 @@ I understand why something works, not just getting it to work.
 
 **Testing & tools**
 `pytest` `Playwright` `GitHub Actions` `Git`
-
 
