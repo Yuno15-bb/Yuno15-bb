@@ -2,9 +2,9 @@
 
 ### Applied AI & Product Software Engineer
 
-I turn real problems into useful software, especially around AI systems and product development.
+Turning real problems into useful software, especially around AI systems and product development.
 
-I care about understanding why something works, not just making it work.
+I care about understanding why something works.
 
 
 ### Work
