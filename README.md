@@ -1,4 +1,4 @@
-# Elliass Peel
+# Elliass Peellaert
 
 ### Applied AI & Product Software Engineer
 
