@@ -13,7 +13,7 @@ I care about understanding why something works.
 
 **Field Ops Platform** — Software for field teams working with unreliable networks.
 
-**C Brain** — Open-source memory & retrieval for AI agents.
+**GreyMatter** — Open-source memory & retrieval for AI agents.
 
 
 ### Stack
