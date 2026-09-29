@@ -1,23 +1,3 @@
-# Peellaertech
-
-### Applied AI & Product Software Engineer
-
-Turning real problems into useful software, especially around AI systems and product development.
-
-I care about understanding why something works.
-
-
-### Work
-
-**AI Ops** — AI agent for real business operations.
-
-**Field Ops Platform** — Software for field teams working with unreliable networks.
-
-**GreyMatter** — Open-source memory & retrieval for AI agents.
-
-
-### Stack
-
 **Languages**  
 `Python` `TypeScript` `JavaScript` `SQL`
 
